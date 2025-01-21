@@ -1,10 +1,12 @@
-## Hi there 👋
-
+## Hi there, I'm Carl 👋
+- 🌉 &nbsp; I’m a software engineer based in the San Francisco Bay Area.
+- 🌱 &nbsp; Passionate about ML/LLM systems and distributed computing.
+- 📈 &nbsp; Hands-on experience applying parallel and distributed computing techniques to make software reliable and performant.
+- 👾 &nbsp; I enjoy exploring new technologies—check out my game projects and mobile app on my [YouTube](https://www.youtube.com/@carlchangyt).
 <!--
 **ichuniq/ichuniq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
